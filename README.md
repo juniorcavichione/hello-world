@@ -1,4 +1,6 @@
 # hello-world
+
+trata-se de um exercício para testar os commit a execução do nodejs.
 Exercícios - Setup de ferramentas
 
 Tente fazer o passo a passo abaixo sem consultar as aulas inicialmente. Caso não se lembre como realizar alguns dos passos, sinta-se a vontade para consultar as aulas.
